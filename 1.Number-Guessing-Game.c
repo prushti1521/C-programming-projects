@@ -1,4 +1,19 @@
+/*
+ Number Guessing Game
+ --------------------
+   A simple console-based C program where the computer generates
+   a random number and the user tries to guess it.
+ 
+   The program provides feedback for each guess (too high / too low)
+   and counts the total number of attempts until the correct number
+   is guessed.
+ 
+ * Concepts used:
+  - Random number generation
+  - Loops and conditional statements
+  - User input/output
 
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
