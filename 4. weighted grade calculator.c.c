@@ -1,3 +1,24 @@
+/* Weighted Grade Calculator
+
+## Features:
+
+Calculates weighted grades for a single student
+Supports multiple students
+Computes max, average, and median grades
+Converts numeric grades to letter grades
+Menu-driven program
+Input validation
+Uses recursion for calculations
+
+## Concepts Used:
+
+Arrays
+Functions
+Recursion
+Input validation
+Basic statistics */
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
