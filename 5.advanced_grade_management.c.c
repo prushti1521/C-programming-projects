@@ -1,3 +1,21 @@
+/* Weighted Grade System (Assignment 2)
+
+## Features
+- Uses structures (struct)
+- Dynamic memory allocation (malloc, realloc)
+- Sorting students by grade
+- Searching students by name
+- Computes max, average, median
+- Input validation
+
+## Concepts Used
+- Structures
+- Pointers
+- Dynamic memory
+- Sorting algorithms
+- Searching algorithms */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
